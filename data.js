@@ -1000,13 +1000,3 @@ export const data = [
   "eightbqfhnmvqsoneninezbrzcqkz4ftv",
   "1eightcrcjcbdthreebscfpvznqfrj6",
 ];
-
-export const testData = [
-  "two1nine",
-  "eightwothree",
-  "abcone2threexyz",
-  "xtwone3four",
-  "4nineeightseven2",
-  "zoneight234",
-  "7pqrstsixteen",
-];
